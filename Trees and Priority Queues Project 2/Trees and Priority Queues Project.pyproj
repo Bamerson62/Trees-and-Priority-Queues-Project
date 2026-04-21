@@ -5,7 +5,7 @@
     <ProjectGuid>58eed6d7-798d-4d18-8ab6-fc204593378e</ProjectGuid>
     <ProjectHome>
     </ProjectHome>
-    <StartupFile>binary_expression_tree_.py</StartupFile>
+    <StartupFile>main.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -22,7 +22,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="binary_expression_tree_.py" />
+    <Compile Include="binary_expression_tree.py" />
     <Compile Include="main.py" />
     <Compile Include="stack.py" />
   </ItemGroup>
